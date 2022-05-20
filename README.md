@@ -1,6 +1,6 @@
 # Arrays-JavaScript
 
-## Atividades desenvolvidas durante o curso de "Arrays" (linguagem JavaScript). Desenvolvido na plataforma Alura, com cerificado no LindedIn (https://www.linkedin.com/in/jonathas-david-6429b813b/)
+## Atividades desenvolvidas durante o curso de "Arrays" (linguagem JavaScript). Desenvolvido na plataforma Alura, com cerificado no LindedIn - [LinkedIn](https://www.linkedin.com/in/jonathas-david-6429b813b/)
 
 ### Desafios de Listas, médias etc Arrays e conteúdo desenvolvido:
 
